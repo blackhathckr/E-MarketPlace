@@ -1,0 +1,10 @@
+<?php
+session_start();
+if(isset($_SESSION['log']))
+{
+    unset($_SESSION['log']);
+}
+?>
+<script>
+    window.location.href="user.php";
+</script>

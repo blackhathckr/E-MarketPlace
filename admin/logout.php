@@ -1,0 +1,10 @@
+<?php
+session_start();
+if(isset($_SESSION['log']))
+{
+    unset($_SESSION['admin_log']);
+}
+?>
+<script>
+    window.location.href="../index.html";
+</script>

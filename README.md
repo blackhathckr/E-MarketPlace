@@ -1,5 +1,3 @@
-# E-Marketplace
-
 Web Application ( Full-Stack ) -> E-Marketplace / Online-Marketplace
 
 Programming Languages ->
